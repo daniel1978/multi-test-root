@@ -1,4 +1,4 @@
-# Test for Java 9 modules and Spring Boot
+# Test for Java 9 modules
 
 ## First example (Java 9 modules only)
 
